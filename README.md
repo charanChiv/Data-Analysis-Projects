@@ -13,11 +13,6 @@ The complete interactive report is hosted on Netlify and can be viewed live.
 
 **[➡️ View Live Report](https://titanic-data-analysis.netlify.app/titanic_data.html)**
 
-# Applied-AI-Portfolio
-
-A portfolio of 21 hands-on projects in Machine Learning, Deep Learning, and Generative AI.
-
-
 ---
 
 ## Project 02: Netflix Content Strategy Exploratory Data Analysis (EDA)
