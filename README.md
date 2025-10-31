@@ -1,11 +1,12 @@
-# Applied-AI-Portfolio
-A portfolio of 21 hands-on projects in Machine Learning, Deep Learning, and Generative AI.
+# Data Analysis & EDA Portfolio
+
+A collection of my hands-on projects focused on Exploratory Data Analysis (EDA). This portfolio showcases my ability to clean, analyze, and visualize data to uncover insights.
 
 ---
 
-## Project 01: Exploratory Data Analysis (EDA)
+## 1. Titanic Dataset: Exploratory Data Analysis
 
-This project is an exploratory data analysis of a dataset.
+This project is a classic exploratory data analysis of the Titanic dataset, looking at factors that influenced survival.
 
 ### View the Interactive Report
 
@@ -15,6 +16,6 @@ The complete interactive report is hosted on Netlify and can be viewed live.
 
 ---
 
-## Project 02: Netflix Content Strategy Exploratory Data Analysis (EDA)
+## 2. Netflix Content Strategy: Exploratory Data Analysis
 
-This project dives into the Netflix dataset to analyze its content library, looking at trends in genres, release years, and content types.
+This project dives into the Netflix dataset to analyze its content library. It explores trends in genres, release years, and content types to understand Netflix's content strategy.
